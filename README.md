@@ -14,4 +14,6 @@ Script to automate deleting all of your youtube comments
 
 You can minimize the window while it finishes. Best to do this in a private browser window so no extensions are enabled.
 
+Original code credit goes to [RubenPonce](https://github.com/RubenPonce/Delete-Your-Youtube-Comments), before I modified it.
+
 ------------------------------------------------------------------------------------
