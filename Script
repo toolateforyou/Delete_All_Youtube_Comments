@@ -6,7 +6,7 @@ async function work() {
 	for (let b of buttons) {
     console.log("Hit");
     b.click();
-    await sleep(2000);
+    await sleep(4000);
   }
   console.log("End. Scrolling...")
   window.scrollTo(0, document.body.scrollHeight);
