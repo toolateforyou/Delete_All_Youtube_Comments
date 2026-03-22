@@ -16,4 +16,16 @@ You can minimize the window while it finishes. Best to do this in a private brow
 
 Original code credit goes to [RubenPonce](https://github.com/RubenPonce/Delete-Your-Youtube-Comments), before I modified it.
 
+
+If Not sticking and comments are still showing up, and as not being deleted, try adjusting the codes first sleep value to:
+
+await sleep(6000);
+
+and second sleep value to:
+
+await sleep(12000);
+
+
+
+
 ------------------------------------------------------------------------------------
